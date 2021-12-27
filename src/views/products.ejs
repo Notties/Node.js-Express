@@ -1,0 +1,22 @@
+<head>
+
+</head>
+
+<body>
+    <h1>Products</h1>
+    <section id="feature">
+        <div class="container">
+            <% products.map((product)=>{ %>
+                <h4>
+                    <%=product.ProductTitle %>
+                </h4>
+                <p>
+                    <%=product.ProductDescription %>
+                </p>
+                <p>
+                    Price: <%=product.ProductPrice %>
+                </p><br>
+                <% }) %>
+        </div>
+    </section>
+</body>

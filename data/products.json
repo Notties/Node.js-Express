@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "ProductTitle": "NameProduct1",
+            "ProductDescription": "ProductDescription1",
+            "ProductPrice": 15
+        },
+        {
+            "ProductTitle": "NameProduct2",
+            "ProductDescription": "ProductDescription2",
+            "ProductPrice": 25
+        },
+        {
+            "ProductTitle": "NameProduct3",
+            "ProductDescription": "ProductDescription3",
+            "ProductPrice": 35
+        },
+        {
+            "ProductTitle": "NameProduct4",
+            "ProductDescription": "ProductDescription4",
+            "ProductPrice": 45
+        }
+    ]
+}
